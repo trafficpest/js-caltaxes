@@ -1,4 +1,4 @@
-# studious-tribble
+# js-caltaxes
 Javascript Biweekly California State Tax Witholding Calulator
 
 This is a simple function to calculate exact california witholding tax. Please use it for whatever you like. The default values are from California DE44 2022 "METHOD B - EXACT CALCULATION METHOD" starting on page 40. Update the values as needed if calculating a different tax year.
